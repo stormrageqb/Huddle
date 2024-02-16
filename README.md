@@ -45,7 +45,3 @@ React-intersection-observer
 Mobile responsiveness
 <br>
 
-## Questions:
-
-Feel free to contact me at mully7773@gmail.com if you have any questions. <br>
-You can view more of my projects at https://github.com/Mully7773.
